@@ -1,0 +1,23 @@
+[
+  {
+    "name": "tests/hello.txt",
+    "size_bytes": 12,
+    "file_type": "text/plain",
+    "entropy": 3.02,
+    "risk_level": "Low"
+  },
+  {
+    "name": "tests/test.py",
+    "size_bytes": 20,
+    "file_type": "text/x-python",
+    "entropy": 3.88,
+    "risk_level": "Low"
+  },
+  {
+    "name": "tests/random.bin",
+    "size_bytes": 1024,
+    "file_type": "application/octet-stream",
+    "entropy": 7.79,
+    "risk_level": "High"
+  }
+]
