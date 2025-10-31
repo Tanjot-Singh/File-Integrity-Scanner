@@ -98,5 +98,5 @@ Next steps:
 → Add SHA-256 hashing
 → Integrate YARA rules for deeper file inspection
 
-Repo: 🔗 [GitHub.com/<your_username>/File-Integrity-Scanner]
+Repo: 🔗 [GitHub.com/<Tanjot-Singh>/File-Integrity-Scanner]
 #CyberSecurity #Python #Forensics #MalwareAnalysis #CyberForensics #InfoSec #StudentProjects
